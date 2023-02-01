@@ -1,0 +1,8 @@
+C:\Users\alex.msantos22\source\repos\Atividade010223\bin\Debug\Atividade010223.exe.config
+C:\Users\alex.msantos22\source\repos\Atividade010223\bin\Debug\Atividade010223.exe
+C:\Users\alex.msantos22\source\repos\Atividade010223\bin\Debug\Atividade010223.pdb
+C:\Users\alex.msantos22\source\repos\Atividade010223\obj\Debug\Atividade010223.csproj.AssemblyReference.cache
+C:\Users\alex.msantos22\source\repos\Atividade010223\obj\Debug\Atividade010223.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.msantos22\source\repos\Atividade010223\obj\Debug\Atividade010223.csproj.CoreCompileInputs.cache
+C:\Users\alex.msantos22\source\repos\Atividade010223\obj\Debug\Atividade010223.exe
+C:\Users\alex.msantos22\source\repos\Atividade010223\obj\Debug\Atividade010223.pdb
